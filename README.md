@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, React-native**
 
-- 👨‍💻 All of my projects are available at [insane18.netlify.app](insane18.netlify.app)
+- 👨‍💻 All of my projects are available at [insane18.netlify.app](https://insane18.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/feed/update/urn:li:activity:7115216123909832704/](https://www.linkedin.com/feed/update/urn:li:activity:7115216123909832704/)
 
