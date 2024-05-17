@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/feed/update/urn:li:activity:7115216123909832704/](https://www.linkedin.com/feed/update/urn:li:activity:7115216123909832704/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about anything that is related to **tech core concepts**
 
 - 📫 How to reach me **durgajayasai12345@gmail.com**
 
