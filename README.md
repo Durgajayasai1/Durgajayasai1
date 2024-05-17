@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgajayasai1&label=Profile%20views&color=0e75b6&style=flat" alt="durgajayasai1" /> </p>
 
-- 🔭 I’m currently working on [Agriculture & Aquaculture systems](Not deployed)
-
-- 🌱 I’m currently learning **Flutter, React-native**
+- 🌱 I’m currently working on **Flutter, React-native**
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://insane18.netlify.app/)
 
