@@ -1,4 +1,4 @@
-# Hi 👋, I'm Durga Jayasai Pillagolla
+# Hey, I'm Durga Jayasai Pillagolla
 
 ## Flutter & Frontend Developer (React.js)
 
