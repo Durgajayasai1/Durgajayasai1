@@ -8,8 +8,7 @@ I am a passionate developer with expertise in **Flutter** for building cross-pla
 - ✨ UI / UX Enthusiast
 - 💻 Committed to writing clean, efficient code
 - 🧠 Learning: Advanced Flutter Animations, Next.js, TypeScript
-- 💁🏻 Sharing insights, apps, and tips on Flutter development on [Instagram](https://www.instagram.com/_insane.dev/)
-- ✉️ Contact: [Gmail](mailto:pillagolladurgajayasai@gmail.com)
+- 💁🏻 Sharing insights, and apps on Flutter development on [Instagram](https://www.instagram.com/_insane.dev/)
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
@@ -33,12 +32,13 @@ I am a passionate developer with expertise in **Flutter** for building cross-pla
 ---
 [![](https://visitcount.itsvg.in/api?id=Durgajayasai1&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/durga-jayasai-pillagolla-863828235/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Durgajayasai1" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+# Reach me via 👇🏻
+<a href="https://www.instagram.com/_insane.dev/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3e1066a5-35cc-4ce4-9035-6fc457c7e4c9"  height="50" alt="instagram logo"  />
+</a>
+<a href="https://www.linkedin.com/in/durga-jayasai-pillagolla-863828235/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6708f656-58c5-4305-bce9-62663961137a" height="50" alt="telegram logo"  />
+</a>
+<a href="mailto:pillagolladurgajayasai@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/84b6b4d7-2838-4672-80d4-0b0cc56e5445" height="50" alt="gmail logo"  />
+</a>
